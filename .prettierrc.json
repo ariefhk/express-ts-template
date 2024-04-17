@@ -1,0 +1,11 @@
+{
+  "arrowParens": "avoid",
+  "tabWidth": 2,
+  "singleQuote": false,
+  "semi": false,
+  "printWidth": 80,
+  "bracketSpacing": true,
+  "bracketSameLine": true,
+  "endOfLine": "lf",
+  "plugins": ["@ianvs/prettier-plugin-sort-imports"]
+}
